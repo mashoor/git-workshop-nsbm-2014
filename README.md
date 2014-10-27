@@ -3,4 +3,4 @@ Git-workshop
 Introduction to GIT
 
 
-![Introduction to GIT](/NSBM/images/git.jpg)
+![Introduction to GIT](/NSBM/git.jpg)
